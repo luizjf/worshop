@@ -1,0 +1,34 @@
+@media screen and (max-width: 500px) {
+
+    header{
+        text-align: center;
+        flex-direction: column;
+    }
+
+    section{
+        flex-direction: column;
+    }
+
+    h3{
+        font-size: 15px;
+        font: 900;
+    }
+
+    .form-container{
+        margin-right: 50px;
+        margin-left: 50px;
+        background-position: center;
+    }
+
+    .picture{
+        margin-left: 70px;
+        width: 100px;
+        float: left;
+    }
+    .description{
+        
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+}
